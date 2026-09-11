@@ -39,16 +39,6 @@ Master’s graduate in **Information Systems Security & Infrastructure (ISI Tuni
 
 ---
 
-## 🏆 Achievements & GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/DownToUp">
-    <img src="https://github-profile-trophy.vercel.app/?username=DownToUp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Abderraouf's Trophies" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Core Technical Stack & Standards
 
 <p align="center">
@@ -56,7 +46,17 @@ Master’s graduate in **Information Systems Security & Infrastructure (ISI Tuni
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+## 📈 Profile Status
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DownToUp&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Securing_Banking_Infrastructures-blue?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Cyber_Risk_%26_ISO_27001-orange?style=flat-square" alt="Focus" />
 </p>
