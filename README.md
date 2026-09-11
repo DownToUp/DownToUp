@@ -34,3 +34,14 @@ Master’s graduate in **Information Systems Security & Infrastructure (ISI Tuni
 ## 📬 Connect With Me
 * LinkedIn: https://www.linkedin.com/in/abderaouf-dahmani-3ba582294/
 * Email: Dahmani.abderaouf@gmail.com
+
+
+
+---
+
+## 📊 Activity & Technical Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DownToUp&show_icons=true&theme=tokyonight&hide_border=true" alt="Abderraouf's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DownToUp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
