@@ -1,4 +1,4 @@
-# Abderraouf DEHMANI
+# Abderraouf DAHMANI
 ### Information Security & Infrastructure Specialist | Cyber Risk & Governance
 
 Master’s graduate in **Information Systems Security & Infrastructure (ISI Tunis)**, bridging the gap between technical infrastructure defense and strategic security governance (ISO 27001, EBIOS RM, Zero Trust).
